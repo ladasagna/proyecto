@@ -1,4 +1,3 @@
-#repositorio
 def menu(): 
 
     print("\n---Menú---")
